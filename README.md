@@ -1,5 +1,5 @@
 # AI-Project-2021
-Source code to find probability of possibility breast cancer from breast cancer data using logistic regression machine learning method.
+Find probability of possibility breast cancer (M or B) from breast cancer data using logistic regression machine learning method.
 This project is intended to fulfill an assignment for Artificial Inteligent class.
 
 Group Speedrun !
